@@ -1,0 +1,4 @@
+name = "DuckyScript"
+grammar = "duckyscript"
+path_suffixes = ["txt"]
+line_comments = ["REM "]
